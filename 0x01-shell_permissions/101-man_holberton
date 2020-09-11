@@ -5,9 +5,10 @@
 .SH SYNOPSIS
 eniac
 .SH DESCRIPTION
-Eniac was turing-complete, and able to slove "a large class of numerical problems"through reprogramming.
+Eniac was turing-complete, and able to slove "a large class of numerical problems" through reprogramming.
 .SH OPTIONS
-.B eniac does not take any optins.
+.B eniac
+does not take any options.
 .SH SEE ALSO
 ENIAC could be programmed to perform complex sequences of operations(2), including loops(2), branches(2), and subrootines(2).
 .SH BUGS
