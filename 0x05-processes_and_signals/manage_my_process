@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
-# Daemon process
-while true; do
-	echo I am alive! >> /tmp/my_process
+# indefinitely write message in a file
+
+while :
+do
+	echo "I am alive!" >> /tmp/my_process
 	sleep 2
 done
